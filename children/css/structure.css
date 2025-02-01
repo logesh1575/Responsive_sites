@@ -1,0 +1,79 @@
+@charset "utf-8";
+/* CSS Document */
+.gre
+{
+	 background-color:#90953b;
+}
+ li a
+{
+	color:#FFFFFF;
+	font-size:18px;
+	font-weight:bold;
+	margin-right:3%;
+	text-outline:rgba(197,6,10,1.00)	
+}
+
+	
+
+.logo
+{
+	height:30px;
+	width:30px;
+}
+.brand
+{
+	color:rgba(255,255,255,1.00);
+	font-size:35px;
+	font-weight:bold;
+}
+.co
+{
+	background-image:url(../images/slider-bg.jpg);
+	height:100%;
+	width:100%;
+	color:#FFFFFF;
+	padding-bottom:3%;
+}
+.one{
+	color:#ffff00;
+	padding:5% 0 0 5%;
+}
+.two{
+	font-weight:bold;
+	font-size:60px;
+	
+}
+.three{
+	font-size:16px;
+}
+.four
+{
+	background-color:#78853f;
+	margin-bottom:5%;
+}
+.five{
+	
+	background-color:#ffff00;
+	font-size:22px;
+	color:rgba(0,0,0,1.00);
+	
+}
+.six
+{
+	margin-top:5%;
+}
+.seven{
+	background-color:#f7f7f7;
+}
+.eight{
+	margin-top:3%;
+}
+footer
+{
+	background-color:#252525;
+	color:#FFFFFF;
+}
+.four span
+{
+	color:#FFFFFF;
+}
