@@ -1,0 +1,109 @@
+@charset "utf-8";
+/* CSS Document */
+.brand
+{
+	color:rgba(255,255,255,1.00);
+	font-size:40px;
+	font-weight:bold;
+}
+nav ul
+{
+	font-weight:bold;
+	font-size:18px;
+	
+}
+.tex
+{
+	font-size:40px;
+	font-weight:bold;
+	color:#222222;
+	margin:10% 0;
+	
+}
+.te
+{
+	font-size:16px;
+	color:#9d9d9d;
+	font-weight:200;
+	text-align:justify;
+	margin:2% 0 5% 0;
+	
+}
+.bu
+{
+	color:rgba(255,255,255,1.00);
+	font-size:22px;
+	font-weight:bold;
+	background-color:#222222;
+	align-item:center;
+	margin-bottom:5%;
+	
+}
+.one
+{
+	margin-top:10%;
+
+}
+.tit
+{
+	color:#222222;
+	font-size:20px;
+	font-weight:bold;
+	margin:4% 0 1% 0;
+}
+.wwd
+{
+	margin-top:5%;
+}
+.mar
+{
+	margin-top:10%;
+}
+.pur
+{
+	color:#7321cd;
+}
+.box
+{
+	border:solid 2px;
+}
+.vt
+{
+	margin:5% 0;
+}
+footer
+{
+	background-color:#222222;
+	padding:10px;
+	color:#FFFFFF;
+}
+ .sub
+{
+	margin:5% 0
+}
+ li a
+{
+	color:rgba(255,251,251,1.00);
+	font-size:16px;
+	list-style:none;
+	
+	}
+
+li a:hover
+{
+	color:rgba(240,132,10,1.00);
+	text-decoration:none;
+}
+.tito
+{
+	font-size:40px;
+	font-weight:bold;
+}
+.wd{
+	margin-top:5%;
+}
+.td
+{
+	margin-bottom:5%;
+}
+	
