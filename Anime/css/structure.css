@@ -1,0 +1,91 @@
+@charset "utf-8";
+/* CSS Document */
+
+header,footer
+{
+		color:#FFFFFF;
+	background-color:#070720;
+	padding:20px;
+	font-size:18px;
+	font-weight:bold;
+}
+ul li
+{
+	margin:10px;
+	margin-top:2%;
+}
+li a
+{
+	color:rgba(217,216,216,1.00);
+}
+li a:hover
+{
+	color:#FFFFFF;
+	text-decoration:none;
+}
+.glp
+{
+	margin-top:1%;
+}
+.gallery
+{
+	background-image:url(file:///D|/small%20pjt/Anime/img/hero/hero-1.jpg);
+	
+	color:#FFFFFF;
+
+}
+.one
+{
+	font-weight:bolder;
+	font-size:40px;
+}
+.hero
+{
+	margin-top:25%;
+	margin-left:5%;
+	margin-bottom:5%;
+}
+.container
+{
+	color:#FFFFFF;
+}
+.background
+{
+	background-color:#0b0c2a;
+}
+.trending
+{
+	font-size:20px;
+	margin-top:5%;
+}
+.view
+{
+	color:#FFFFFF;
+	font-size:16px;
+	letter-spacing:2px;
+	font-weight:bold;
+	margin-top:6%;
+}
+.fon{
+	font-size:18px;
+	font-weight:bold;
+	margin-bottom:2%;
+}
+.bad
+{
+	font-size:12px;
+	font-weight:100;
+	margin:20px 0 10px 0;
+	
+}
+.gry
+{
+	color:#A2A2A2;
+	font-size:16px;
+	font-weight:200;
+	margin-top:3%;
+}
+.don
+{
+	margin-top:5%;
+}
